@@ -1,0 +1,32 @@
+<mxlibrary>[
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;p style=&amp;quot;line-height: 100%;&amp;quot;&amp;gt;CLOUDFLARE&amp;lt;/p&amp;gt;&amp;lt;p style=&amp;quot;line-height: 100%;&amp;quot;&amp;gt;Capability&amp;lt;/p&amp;gt;\" style=\"rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a62d;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"260\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 260,
+    "h": 60,
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;p style=&amp;quot;line-height: 40%;&amp;quot;&amp;gt;DNS TYPE&amp;lt;/p&amp;gt;&amp;lt;p style=&amp;quot;line-height: 40%;&amp;quot;&amp;gt;subdomain.domain.tld&amp;lt;/p&amp;gt;&amp;lt;p style=&amp;quot;line-height: 40%;&amp;quot;&amp;gt;target&amp;lt;/p&amp;gt;\" style=\"rounded=1;whiteSpace=wrap;html=1;fillColor=#f5c509;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"260\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 260,
+    "h": 60,
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;p style=&amp;quot;line-height: 100%;&amp;quot;&amp;gt;OPS&amp;lt;/p&amp;gt;&amp;lt;p style=&amp;quot;line-height: 100%;&amp;quot;&amp;gt;Process&amp;lt;/p&amp;gt;\" style=\"rounded=1;whiteSpace=wrap;html=1;fillColor=#dee48f;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"260\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 260,
+    "h": 60,
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;p style=&amp;quot;line-height: 40%;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;background-color: initial;&amp;quot;&amp;gt;VERCEL&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p style=&amp;quot;line-height: 40%;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;background-color: initial;&amp;quot;&amp;gt;project-name&amp;lt;/span&amp;gt;&amp;lt;br&amp;gt;&amp;lt;/p&amp;gt;\" style=\"rounded=1;whiteSpace=wrap;html=1;fillColor=#c7c7c7;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"260\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 260,
+    "h": 60,
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;p style=&amp;quot;line-height: 40%;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;background-color: initial;&amp;quot;&amp;gt;DROPLET&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p style=&amp;quot;line-height: 40%;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;background-color: initial;&amp;quot;&amp;gt;droplet-name&amp;lt;/span&amp;gt;&amp;lt;br&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p style=&amp;quot;line-height: 40%;&amp;quot;&amp;gt;public-ip-address&amp;lt;/p&amp;gt;\" style=\"rounded=1;whiteSpace=wrap;html=1;fillColor=#2d9bf0;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"260\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 260,
+    "h": 60,
+    "aspect": "fixed"
+  }
+]</mxlibrary>
